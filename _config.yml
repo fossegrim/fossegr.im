@@ -29,7 +29,7 @@ twitter_username: olebullsplass
 github_username: olav35
 
 # Build settings
-theme: minima
+# theme: minima # regular theme is used as opposed to plugin theme
 plugins:
   - jekyll-feed
 
