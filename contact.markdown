@@ -12,6 +12,5 @@ For personal inquiries, or if you do not use Discord, I am likely to respond on 
 - Freenode: fossegrim, fossegrim[m] or fossegrim[e]
 - Carrier pigeons
 - Twitter: [fossegrim](https://twitter.com/olebullsplass)
-- Reddit: [olavx200](https://www.reddit.com/user/olavx200)
 
 Feel free to ask me about anything you would like, but I expect a reasonable standard of questions. Please do put *some* effort into answering your questions before contacting me.
