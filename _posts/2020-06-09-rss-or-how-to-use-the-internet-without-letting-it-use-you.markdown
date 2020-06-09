@@ -21,7 +21,7 @@ RSS or Really Simple Syndication is an *ancient* protocol from the late 90s for 
 The difference between RSS and the feed services offered by media web-sites is that with this the end user is in control. The way it works is that the web-sites publishes a feed of content that a RSS client can subscribe to. Then the RSS client can retrieve the feeds and thereon out the feed is in your hands permanently. Your RSS client can process the feed further before displaying it to you if you so prefer.
 
 ## Setting up an RSS client
-To get started with RSS you need an RSS client. Personally I use elfeed in Emacs, but any client will do. In this section I will show you how to get started with elfeed. If you don't use Emacs I recommend using another client. Any client will do, but [feeder](https://feeder.co) looks like a good start. The only feature requirement for this tutorial is the ability to subscribe to feeds which all clients by definition satisfy.
+To get started with RSS you need an RSS client. Personally I use elfeed in Emacs, but any client will do. In this section I will show you how to get started with elfeed. If you do not use Emacs I recommend using another client. Any client will do, but [feeder](https://feeder.co) looks like a good start. The only feature requirement for this tutorial is the ability to subscribe to feeds which all clients by definition satisfy.
 
 If you use Doom Emacs installation is done by uncommenting the RSS package in `~/.doom.d/init.el` and reloading Doom with `SPC h r r`.
 
