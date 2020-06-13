@@ -23,7 +23,7 @@ This is my first and main resolution. To describe where I was the 1. Jan I will 
 
 This is not very descriptive for anyone other than me. To put things into perspective the entire course is estimated to take a 1000 hours. The 1. Jan I was at the end of webdev 101, ie the first sub course and now I'm in the middle of the 4th one. This is still not very descriptive, but I'm happy with my progress here.
 
-* Perform #100daysofcode
+* Perform [#100daysofcode](https://twitter.com/olebullsplass)
 
 There is not much to say here. I have posted [tweets](https://twitter.com/olebullsplass) (and programmed / studied for one hour++) every day.
 
