@@ -1,7 +1,7 @@
 ---
 categories: [self-help, resolutions]
 layout: post
-title: 2020 New Year's Resolutions
+title: New Year's Resolutions Announcement
 ---
 
 * Finish [The Odin Project](https://www.theodinproject.com/) (Easy, very time consuming)
