@@ -16,7 +16,7 @@ As I talked about in the Mars update I wanted to switch to another learning reso
 
 I have finished part 0 and 1 out of 9 parts. So far I like this more than The Odin Project.
 
-* Perform [#100daysofcode](https://twitter.com/olebullsplass)
+* Perform [#100DaysOfCode](https://twitter.com/olebullsplass)
 
 Today is day 91. Whilst my streak hasn't ended the last days or weeks have been less productive than previously. I used to have a very good study routine where I coded at my school and at the library now I have to code at home which is much harder to me.
 
@@ -40,4 +40,4 @@ Take care
 
 Olav
 
-*This post was ported from a Reddit [post](https://www.reddit.com/r/newyearsresolutions/comments/fsxqk0/1_april_update/) in 2020-6-13*
+*This post was ported from a Reddit [post](https://www.reddit.com/r/newyearsresolutions/comments/fsxqk0/1_april_update/) in 2020-6-14*
