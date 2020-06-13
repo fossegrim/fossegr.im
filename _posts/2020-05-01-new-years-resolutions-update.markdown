@@ -35,4 +35,4 @@ Take care
 
 Olav
 
-*This post was ported from a Reddit [post](https://www.reddit.com/r/newyearsresolutions/comments/gbfct0/1_may_update/) in 2020-6-13*
+*This post was ported from a Reddit [post](https://www.reddit.com/r/newyearsresolutions/comments/gbfct0/1_may_update/) in 2020-6-14*
