@@ -18,7 +18,7 @@ Provided that you have set up Homebrew all you need to do to install Emacs is ru
 
 ```sh
 brew tap d12frosted/emacs-plus &&
-brew install emacs-plus@27 --with-modern-icon-cg433n --with-xwidgets &&
+brew install emacs-plus@27 --with-modern-icon-cg433n &&
 ln -s /usr/local/opt/emacs-plus@27/Emacs.app /Applications
 ```
 
