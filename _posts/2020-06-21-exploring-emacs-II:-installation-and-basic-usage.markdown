@@ -24,6 +24,9 @@ ln -s /usr/local/opt/emacs-plus@27/Emacs.app /Applications
 
 The `--with-modern-icon-cg433n` flag can be replace in case you want another icon. For a list of icons see [https://github.com/d12frosted/homebrew-emacs-plus#icons](https://github.com/d12frosted/homebrew-emacs-plus#icons).
 
+I think the `--with-retro-icon-sink-bw` icon looks cool.
+
+![Retro Sink](/assets/images/retro-icon-sink-bw.png)
 ## Linux
 Installing Emacs on Linux is as simple as installing any other package. Simply install the Emacs package with your distribution's package manager. I can assure you that this package works correctly on Ubuntu. Although it will probably work as expected on other distributions too.
 
