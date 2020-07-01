@@ -19,12 +19,6 @@ Not much to say. Finished and I'm still doing the second round. I will probably 
 
 * \[FINISHED\] Pass 1000 rating on blitz on [chess.com](https://chess.com/)
 
-I had planned to reach 1000 this month, but that didn't happen. I was feeling unmotivated to play which my games reflected. Regardless I managed to beat my personal best [chess.com](https://chess.com/) rating by 3 points. It's not the progress I had hoped for, but it is progress any way.
-
-To fight my stagnation I will try finding a mentor who will help me for free through Discord or something like that. If you know anyone who will do it feel free to pm me.
-
-I got a mentor of sorts from posting a request on a chess subreddit and I passed 1000 on the 20th May. Thereafter I have been playing on lichess so as to not tank my rating. In the future I want to play more OTB(Over The Board) as it opens up again.
-
 * \[FINISHED\] Learn to play an arbitrary song on the bass guitar
 
 I'm still on the bass book although I haven't practiced in a while.
