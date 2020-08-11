@@ -65,9 +65,6 @@ For example the RSS feed URL of Protesilaos' Emacs playlist is [https://www.yout
 ### Other feeds
 There are many other web-sites supporting RSS. In my experience most web-sites worth using has either first or third party RSS feeds available.
 
-## Conclusion
-If you found this useful or have any comments or questions regarding the topic feel free to join my Discord server [fossegrim's club](https://discord.gg/cK6WSHh) or [contact](/contact/) me otherwise.
-
 Take care
 
 Olav
