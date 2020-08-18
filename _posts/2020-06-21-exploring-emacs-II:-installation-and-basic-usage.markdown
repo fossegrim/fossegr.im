@@ -68,8 +68,6 @@ To internalize the content of this tutorial I strongly suggest incorporating Ema
 
 In the next chapter of Exploring Emacs we will learn Emacs Lisp and start customizing our Emacs configuration.
 
-If you found this interesting or have any questions regarding the article feel free to join my Discord server [fossegrim's club](https://discord.gg/Dzykafx) or [contact](/contact/) me otherwise! As always I appreciate your feedback!
-
 Thanks for reading!
 
 Take care
